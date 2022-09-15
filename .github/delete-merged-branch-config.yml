@@ -1,0 +1,12 @@
+# https://github.com/marketplace/actions/delete-merged-branch
+
+exclude:
+  - master
+  - main
+  - demo/*
+  - dev
+  - devel
+  - develop
+  - development
+  - staging
+delete_closed_pr: false
