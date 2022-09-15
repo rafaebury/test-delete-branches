@@ -2,3 +2,4 @@ foo test
 foo demo
 foo dxp
 foo protected-branch
+foo protected-branch-2
